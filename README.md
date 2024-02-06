@@ -1,7 +1,7 @@
 ## 🎮🎉 cmrguides</br>
 ![image](https://avatars.githubusercontent.com/u/158375375?s=128&v=4)
 
-Daft OS is a **[Feren OS]** Ubuntu based Daft Punk themed Linux distribution.
+Daft OS is a **[Feren OS]** Ubuntu based Daft Punk themed Linux distribution.<br>
 **[Daft Punk music not included!]**
 
 Made from the creator of the Sujix/Dragon Linux distribution which had well over 1k downloads!</br>
